@@ -23,7 +23,7 @@ Score **3 or more baskets**, and you’ll hear a celebratory sound and see a tro
 
 ---
 
-This game is built using **Python standard libraries only** (plus `pytest` for testing). It’s my final project for **Harvard CS50P (Introduction to Programming with Python)** — combining my love of basketball and programming. 👩‍💻+🏀
+This game is built using **Python standard libraries only** (plus `pytest` for testing). It’s my final project for **Harvard CS50P (Introduction to Programming with Python)** — combining my love for basketball and programming. 👩‍💻+🏀
 
 ---
 
